@@ -1,5 +1,5 @@
 # 🔄 Inversion de Contrôle & Injection de Dépendances en Java
-<img align="right" alt="Illustration" height="200" width="300" src="image.png">
+<img align="center" alt="Illustration" height="200" width="300" src="image.png">
 
 ## 🧠 Présentation du projet
 Ce projet met en œuvre les principes de **l'inversion de contrôle (IoC)** et de **l'inction de dépendances (DI)** en Java. Il explore plusieurs approches, allant de l'instanciation manuelle à l'utilisation de **Spring IoC**, et va jusqu'à la création d'un **mini-framework d'injection personnalisé**, inspiré de Spring.
